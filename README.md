@@ -93,7 +93,7 @@ O modelo utiliza os indicadores comportamentais e acadêmicos do aluno para esti
 
 ## Deploy
 
-A aplicação está disponível em: _(link será adicionado após deploy no Streamlit Community Cloud)_
+A aplicação está disponível em: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datathon-p-magicos.streamlit.app/)
 
 ## Autores
 
