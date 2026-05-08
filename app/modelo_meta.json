@@ -1,0 +1,27 @@
+{
+  "modelo": "Gradient Boosting",
+  "features": [
+    "iaa",
+    "ieg",
+    "ips",
+    "ipp",
+    "ida",
+    "ipv",
+    "nota_mat",
+    "nota_port",
+    "nota_ing",
+    "num_avaliadores",
+    "anos_na_pm",
+    "idade",
+    "ieg_baixo",
+    "divergencia_iaa_ida",
+    "score_psi",
+    "nota_mat_baixa"
+  ],
+  "roc_auc": 0.8583168786471491,
+  "f1_risco": 0.8005822416302766,
+  "threshold": 0.5,
+  "n_treino": 2424,
+  "n_teste": 606,
+  "proporcao_risco_treino": 0.556930693069307
+}
