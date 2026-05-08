@@ -97,4 +97,8 @@ A aplicação está disponível em: _(link será adicionado após deploy no Stre
 
 ## Autores
 
-Desenvolvido por alunos da PosTech FIAP — Pós-Graduação em Data Analytics.
+Desenvolvido por alunos da PosTech FIAP — Pós-Graduação em Data Analytics:
+
+- Cinthia Gonçalez da Silva
+- Gabriel Huzian
+- Karyne Barbosa Silva
