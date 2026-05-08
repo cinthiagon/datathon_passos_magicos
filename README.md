@@ -89,7 +89,7 @@ streamlit run app/app.py
 
 ## Modelo Preditivo
 
-O modelo utiliza os indicadores comportamentais e acadêmicos do aluno para estimar a probabilidade de risco de defasagem (estar abaixo do nível ideal para sua idade). Algoritmo selecionado: **Random Forest Classifier** com otimização de hiperparâmetros via GridSearchCV.
+O modelo utiliza os indicadores comportamentais e acadêmicos do aluno para estimar a probabilidade de risco de defasagem (estar abaixo do nível ideal para sua idade). O algoritmo selecionado foi o **Gradient Boosting**, com ROC-AUC de **0,86** e F1 de **0,80** no conjunto de teste.
 
 ## Deploy
 
