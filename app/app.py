@@ -371,8 +371,7 @@ with aba2:
         resumo = df.groupby("ano")[
             ["inde", "iaa", "ieg", "ips", "ida", "ipv", "ipp"]
         ].mean().round(2)
-        st.dataframe(resumo.style.background_gradient(cmap="Blues", axis=None),
-                     use_container_width=True)
+        st.dataframe(resumo, use_container_width=True)
 
 
 # ════════════════════════════════════════════════════════════════════════════
